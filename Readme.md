@@ -1,5 +1,5 @@
 ### Project name
-muchiri-portifolio
+portifolio
 
 ### Author name
 Regina Muchiri
