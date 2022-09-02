@@ -26,13 +26,13 @@
     display:flex;
 
 }
-ul{
+navbar {
     float:left;
     display:flex;
     justify-content: center;
     align-items: center;
 }
-ul li{
+navbar li{
     list-style:none;
     margin-left: 42px;
     margin-right: 50px;
