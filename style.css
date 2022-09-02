@@ -5,6 +5,16 @@
     float : right;
 
 }
+
+.background2 {
+    background-image : linear-gradient(rgb(223, 153, 231),rgb(215, 169, 108));
+    color :-webkit-validation-bubble-arrow;
+    height: 1.6;
+    margin-left: 5%;
+    margin-right: 5%;         
+ 
+    
+}
 .content {
     margin-left: 5%;
     margin-left: 5%  
